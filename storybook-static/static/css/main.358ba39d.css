@@ -1,0 +1,5 @@
+.center{display:flex;justify-content:center;align-items:center}
+.button{padding:10px 15px;border-radius:10px;border:none;outline:none;color:#fff;font-weight:700;letter-spacing:1px;display:block;cursor:pointer;box-shadow:1px 5px 5px #949494,-1px 5px 5px #797979}.button:hover{box-shadow:none;transition:.5s}.primary{background-color:#0aa5ff}.danger{background-color:#ff0d3d}.secondary{background-color:#f90}
+.input{background-color:#fff;border-radius:5px;padding:10px 10px;outline:none;display:block}.small{height:10px;font-size:10px}.medium{height:15px;font-size:15px}.large{height:20px;font-size:20px}
+
+/*# sourceMappingURL=main.358ba39d.css.map*/
